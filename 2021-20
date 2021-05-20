@@ -1,6 +1,26 @@
 # New Cyber Security Resources week 20, 2021
 
-CTF - Letsdefend - demostration
+Cyber Security Resources (main page)
+
+https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/73bb931bce7a638ae20832252d909c837d698c50/index.md
+
+## Possible opportunities to make your own demonstration (how to) post or video
+
+Malware Campaign Utilizes Microsoft Executable MSBuild
+
+https://www.avertium.com/malware-campaign-utilizes-microsoft-msbuild/
+
+## CTF
+
+Setup Practice Ctf's from Vulnhub on Kali Linux 
+
+https://null-byte.wonderhowto.com/how-to/setup-practice-ctfs-from-vulnhub-kali-linux-0170228/
+
+Downloadable CTF virtual machines (install them into VirtualBox on your own machine) 
+
+https://www.vulnhub.com/
+
+Letsdefend - demostration
 
 https://www.linkedin.com/posts/stefan-wa_letsdefend-lab-review-activity-6801238044851658752-hfZb
 
@@ -11,6 +31,8 @@ https://www.uscybergames.com/
 Cyber KnockOut at RSACTM 2021
 
 https://play.katzcy.com/cyber_knockout_rsac
+
+## Other
 
 Sitdown with a SOC Star: 11 Questions With Haylee Mills of Charles Schwab
 
@@ -40,6 +62,8 @@ Pipeline Ransomware Attack: What We Know and How to Prepare
 
 https://pages.checkpoint.com/amer-security-best-practices-for-ot-may-2021.html
 
+## OSINT
+
 How To Perform External Black-box Penetration Testing in Organization with “ZERO” Information
 
 https://gbhackers.com/external-black-box-penetration-testing/
@@ -62,13 +86,11 @@ https://www.fragattacks.com/
 
 The impact of attacks can also be reduced by manually configuring your DNS server so that it cannot be poisoned. Specific to your Wi-Fi configuration, you can mitigate attacks (but not fully prevent them) by disabling fragmentation, disabling pairwise rekeys, and disabling dynamic fragmentation in Wi-Fi 6 (802.11ax) devices. Note, live testing OS available.
 
+## Courses and Training
+
 Cyber@ANZ - 5 to 6 hour free cyber security course (with completion certificate)
 
 https://www.theforage.com/virtual-internships/prototype/Hf4QMESoFeQwXPsiH/Cyber-Security-Virtual-Program
-
-Cyber Security Resources (main page)
-
-https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/73bb931bce7a638ae20832252d909c837d698c50/index.md
 
 Free Fortinet NSE 1 and 2 coures
 
