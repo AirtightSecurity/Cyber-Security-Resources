@@ -55,6 +55,14 @@ Wireshark Cheat Sheet
 
 https://www.comparitech.com/net-admin/wireshark-cheat-sheet/
 
+Kali Linux Commands List : Hackers Cheat Sheet
+
+https://www.ethicalhackx.com/kali-linux-commands-list/
+
+Hacking Cheatsheet : List of commands and techniques for penetration testing
+
+https://github.com/kobs0N/Hacking-Cheatsheet
+
 ## Cloud Security
 
 SANS book: Practical Guide to Security in the AWS Cloud
@@ -195,7 +203,7 @@ Microsoft Cloud Training Events
 
 https://www.microsoft.com/en-au/cloud-training-events/
 
-Mire Attack conference
+Mitre Attack conference
 
 https://attack.mitre.org/resources/attackcon/
 
