@@ -1,5 +1,11 @@
 # New Cyber Security Resources week 20, 2021
 
+FragAttacks (fragmentation and aggregation attacks) 
+
+https://www.fragattacks.com/
+
+The impact of attacks can also be reduced by manually configuring your DNS server so that it cannot be poisoned. Specific to your Wi-Fi configuration, you can mitigate attacks (but not fully prevent them) by disabling fragmentation, disabling pairwise rekeys, and disabling dynamic fragmentation in Wi-Fi 6 (802.11ax) devices. Note, live testing OS available.
+
 Cyber@ANZ - 5 to 6 hour free cyber security course (with completion certificate)
 
 https://www.theforage.com/virtual-internships/prototype/Hf4QMESoFeQwXPsiH/Cyber-Security-Virtual-Program
