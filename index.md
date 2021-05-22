@@ -2,6 +2,7 @@
 
 Please feel free to fork this repository and add resources.
 
+
 ## Application Security (AppSec)
 
 Bugcrowd run a free online conference called LevelUp which is focused on bug bounties
@@ -33,6 +34,14 @@ CTF Events
 
 https://ctftime.org/event/list/
 
+Cyber KnockOut at RSACTM 2021
+
+https://play.katzcy.com/cyber_knockout_rsac
+
+Downloadable CTF virtual machines (install them into VirtualBox on your own machine) 
+
+https://www.vulnhub.com/
+
 Hacker101 has a great CTF with the advantage that you can earn private invites
 
 https://www.hacker101.com/
@@ -44,6 +53,15 @@ https://tryhackme.com/
 RangeForce
 
 https://www.rangeforce.com/
+
+Setup Practice Ctf's from Vulnhub on Kali Linux 
+
+https://null-byte.wonderhowto.com/how-to/setup-practice-ctfs-from-vulnhub-kali-linux-0170228/
+
+US Cyber Games
+
+https://www.uscybergames.com/
+
 
 ## Cheat Sheets
 
@@ -63,11 +81,13 @@ Hacking Cheatsheet : List of commands and techniques for penetration testing
 
 https://github.com/kobs0N/Hacking-Cheatsheet
 
+
 ## Cloud Security
 
 SANS book: Practical Guide to Security in the AWS Cloud
 
 https://pages.awscloud.com/Book-SEC-mult-SANS-Practical-Guide-Security-AWS-Cloud.html
+
 
 ## Cyber Hygiene
 
@@ -75,11 +95,13 @@ How effective is basic account hygiene at preventing hijacking
 
 https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html
 
+
 ## Cybersecurity Magazine
 
 Cybersecurity Quarterly
 
 https://issuu.com/cybersecurityquarterly
+
 
 ## Cybersecurity Organisations
 
@@ -109,6 +131,7 @@ Women in the IT Channel
 
 https://www.iotssa.com/women-in-the-it-channel/
 
+
 ## Demonstrations
 
 ### Penetration Testing
@@ -125,7 +148,20 @@ Ultimate Password Cracking Techniques Used by Hackers
 
 https://thycotic.com/company/blog/event/webinar-how-your-company-passwords-get-hacked/
 
+
 ## Employment and Job Hunting
+
+Breaking into Cybersecurity cheatsheet
+
+https://www.linkedin.com/pulse/breaking-cybersecurity-cheatsheet-jay-jay-davey/?trackingId=JQif2kzfIKXpuWufVPDgrQ%3D%3D
+
+Cyber Security Interview Questions [Real]
+
+https://www.ethicalhackx.com/cyber-security-interview-questions/
+
+A Conversation With Mayor-Turned-Hacker, Joe Helle | The Hacker Factory With Phillip Wylie
+
+https://itspmagazinepodcast.com/episodes/a-conversation-with-mayor-turned-hacker-joe-helle-the-hacker-factory-with-phillip-wylie-7RvokgaT
 
 ASD jobs:
 
@@ -155,11 +191,13 @@ What is the Applicant Tracking System (ATS)?
 
 https://blogs.chapman.edu/career/2021/02/12/what-is-the-applicant-tracking-system-ats/
 
+
 ## Get togethers and Meet Ups
 
 SecTalk Sydney
 
 https://www.linkedin.com/posts/chadsaliby_security-sydney-cyber-activity-6769919241660563456-F7m1
+
 
 ## Github
 
@@ -167,11 +205,13 @@ GitHub Guide
 
 https://guides.github.com/activities/hello-world/
 
+
 ## Home lab for Cybersecurity
 
 Cybersecurity home lab
 
 https://www.linkedin.com/posts/davidbombal_do-you-need-a-cybersecurity-home-lab-activity-6790313531674775553--QEY
+
 
 ## IOT and Cybersecurity
 
@@ -179,11 +219,38 @@ Voluntary Code of Practice Securing the Internet of Things for Consumers
 
 https://www.homeaffairs.gov.au/reports-and-publications/submissions-and-discussion-papers/code-of-practice#
 
+
 ## Living off the Land Attacks
 
 A Wolf in Sheep's Clothing: Dissecting Living off the Land Techniques
 
 https://www.sans.org/webcasts/wolf-sheeps-clothing-dissecting-living-land-techniques-114615
+
+
+## OSINT
+
+How To Perform External Black-box Penetration Testing in Organization with “ZERO” Information
+
+https://gbhackers.com/external-black-box-penetration-testing/
+
+Active Directory Exploitation Cheat Sheet
+
+https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/active-directory
+
+Active Countermeasures Webcasts
+
+https://www.activecountermeasures.com/webcasts/
+
+Wild West Hackin Fest (pay what you can) training from Balck Hills Security
+
+https://wildwesthackinfest.com/training-schedule/
+
+FragAttacks (fragmentation and aggregation attacks) 
+
+https://www.fragattacks.com/
+
+The impact of attacks can also be reduced by manually configuring your DNS server so that it cannot be poisoned. Specific to your Wi-Fi configuration, you can mitigate attacks (but not fully prevent them) by disabling fragmentation, disabling pairwise rekeys, and disabling dynamic fragmentation in Wi-Fi 6 (802.11ax) devices. Note, live testing OS available.
+
 
 ## Online Summits and Conferences
 
@@ -231,6 +298,7 @@ Virtual Cybersecurity Summit ANZ
 
 https://events.ismg.io/event/virtual-cybersecurity-summit-anz-2021/
 
+
 ### Other inperson or non-free conferences
 
 Australian Cyber Conference 2021
@@ -241,7 +309,24 @@ BSides Canberra 2021
 
 https://bsidescbr.com.au/
 
+
 ## Penatration Testing (PenTesting)
+
+Privileged Access - The Proverbial Keys to the Kingdom
+
+https://www.paramountdefenses.com/insights/privileged-access
+
+List of 100 Most Vulnerable Apps, Systems & Platforms to Practice Penetration Testing -2021 
+
+https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/practice-penetration-testing
+
+How to bypass Defender in a few easy steps
+
+https://arty-hlr.com/blog/2021/05/06/how-to-bypass-defender/
+
+10 Best Free Web Application Penetration Testing Tools 2021
+
+https://cybersecuritynews.com/web-application-pentesting-tools/
 
 How to Write Penetration Testing Report
 
@@ -250,6 +335,10 @@ https://www.linkedin.com/posts/cybersecurity-news_how-to-write-penetration-testi
 Burp Suite for Pentester
 
 https://github.com/Ignitetechnologies/BurpSuite-For-Pentester
+
+Malware Campaign Utilizes Microsoft Executable MSBuild
+
+https://www.avertium.com/malware-campaign-utilizes-microsoft-msbuild/
 
 Penetration Testing Tools Reference Guide
 
@@ -271,17 +360,20 @@ Why Good SOC Analysts Know Offense & Defense
 
 https://www.youtube.com/watch?v=nit5LBiYcNo
 
+
 ## Python
 
 Python Socket server
 
 https://pythonprogramming.net/python-binding-listening-sockets/
 
+
 ## Ransomeware
 
 Ransomware: Survive by outrunning the guy next to you
 
 https://www.zdnet.com/article/ransomware-survive-by-outrunning-the-guy-next-to-you/
+
 
 ## Secuirty Awareness
 
@@ -290,6 +382,7 @@ Gamification is the future of cybersecurity training | Cyber Work Podcast
 https://www.infosecinstitute.com/podcast/gamification-making-cybersecurity-training-fun/
 
 https://www.youtube.com/watch?v=F4fZkBe5FUo
+
 
 ## Security Standards and Frameworks
 
@@ -309,15 +402,52 @@ https://attack.mitre.org/
 
 https://www.youtube.com/watch?v=oCUrkc_0tmw
 
+
 ## SQL Injection Attacks
 
 SQL Injection Demo
 
 https://www.linkedin.com/posts/davidbombal_sql-injection-activity-6793926606864818176-8zpm
 
+
+## SOC
+
+Letsdefend - demonstration
+
+https://www.linkedin.com/posts/stefan-wa_letsdefend-lab-review-activity-6801238044851658752-hfZb
+
+Diving Deeper to Understand the Windows Event logs for Cyber Security Operation Center (SOC)
+
+https://gbhackers.com/event-logs-cyber-security-operations-center/
+
+Sitdown with a SOC Star: 11 Questions With Haylee Mills of Charles Schwab
+
+https://securityboulevard.com/2020/12/sitdown-with-a-soc-star-11-questions-with-haylee-mills-of-charles-schwab/
+
+Say Goodbye to Your Big Alert Pipeline, and Say Hello to Your New Risk-Based Approach” at the Splunk .conf conference in 2018
+
+https://conf.splunk.com/files/2018/recordings/say-goodbye-to-your-sec1479.mp4
+
+
 ## Training and Courses
 
 ### Free and Virtual
+
+Cyber@ANZ - 5 to 6 hour free cyber security course (with completion certificate)
+
+https://www.theforage.com/virtual-internships/prototype/Hf4QMESoFeQwXPsiH/Cyber-Security-Virtual-Program
+
+Free Fortinet NSE 1 and 2 coures
+
+https://training.fortinet.com/local/staticpage/view.php?page=certifications
+
+Free Splunk Education Resources
+
+https://education.splunk.com/free
+
+AWS Summit Online for Australia & New Zealand
+
+https://aws.amazon.com/events/summits/online/anz/
 
 Fortinet NSE 1 and 2 coures 
 
@@ -339,6 +469,7 @@ Microsoft Ignite Skills: Complete/Learn a New Skill & Earn Microsoft Cert. Exam
 
 https://slickdeals.net/f/14873734-microsoft-ignite-skills-complete-learn-a-new-skill-earn-microsoft-cert-exam-free-complete-by-march-30-2021
 
+
 ## Vulnerability Testing
 
 Bad patching practices are a breeding ground for zero-day exploits, Google warns
@@ -353,11 +484,13 @@ Plex Media servers are being abused for DDoS attacks
 
 https://www.zdnet.com/article/plex-media-servers-are-being-abused-for-ddos-attacks/
 
+
 ## Websites and Blogs
 
 GB hackers on Security
 
 https://gbhackers.com/
+
 
 ## Youtube Accounts to Folow
 
@@ -369,4 +502,18 @@ OWASP
 
 https://www.youtube.com/channel/UCSmjcWvgVBqF3x_7e5rfe3A
 
+
+# Webpages and miscellaneous resources
+
+New tools to block legacy authentication in your organization
+
+https://techcommunity.microsoft.com/t5/azure-active-directory-identity/new-tools-to-block-legacy-authentication-in-your-organization/ba-p/1225302
+
+ITSP Magazine RSA Broadcast Alley
+
+https://path.rsaconference.com/flow/rsac/us21/itsp/page/itsp
+
+Pipeline Ransomware Attack: What We Know and How to Prepare
+
+https://pages.checkpoint.com/amer-security-best-practices-for-ot-may-2021.html
 
