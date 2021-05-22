@@ -2,6 +2,14 @@
 
 Please feel free to fork this repository and add resources.
 
+## Table of Contents
+* [Application Security (AppSec)](#Application Security (AppSec))
+* [Privilege Escalation](#privilege-escalation)
+* [Defense Evasion](#defense-evasion)
+* [Credential Dumping](#credential-dumping)
+* [Lateral Movement](#lateral-movement)
+* [Persistence](#persistence)
+* [Defense & Detection](#defense-&-detection)
 
 ## Application Security (AppSec)
 
