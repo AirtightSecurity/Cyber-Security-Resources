@@ -11,17 +11,47 @@ Please feel free to fork this repository, add resources and submit a pull reques
 
 ## Cloud Security
 
+Report: Cloud Security Breaches Surpass On-Prem Ones for the First Time
+
+https://www.datacenterknowledge.com/security/report-cloud-security-breaches-surpass-prem-ones-first-time
+
 ## Cyber Hygiene
 
 ## Cybersecurity Magazine
 
 ## Cybersecurity Organisations
 
+## Defense
+
+### Applocker
+
+AaronLocker
+
+https://github.com/microsoft/AaronLocker
+
+### Honeypots
+
+Awesome Honeypots
+
+https://github.com/paralax/awesome-honeypots
+
+The Art of the Honeypot Account: Making the Unusual Look Normal 
+
+https://www.hub.trimarcsecurity.com/post/the-art-of-the-honeypot-account-making-the-unusual-look-normal
+
+Detecting Kerberoasting Activity Part 2 – Creating a Kerberoast Service Account Honeypot
+
+https://adsecurity.org/?p=3513
+
 ## Demonstrations
 
 ### Penetration Testing
 
 ## Employment and Job Hunting
+
+LinkedIn and career finding
+
+https://www.cyberhuntingguide.net/career-finding.html
 
 ## Get togethers and Meet Ups
 
@@ -41,9 +71,43 @@ Please feel free to fork this repository, add resources and submit a pull reques
 
 ## Penatration Testing (PenTesting)
 
+Cobalt Strike
+
+https://www.cobaltstrike.com/
+
+How to Identify Cobalt Strike on Your Network
+
+https://www.darkreading.com/threat-intelligence/how-to-identify-cobalt-strike-on-your-network/a/d-id/1339357
+
+This is how the Cobalt Strike penetration testing tool is being abused by cybercriminals
+
+https://www.zdnet.com/article/this-is-how-the-cobalt-strike-penetration-testing-tool-is-being-abused-by-cybercriminals/
+
+## Penatration Testing Tools (Online)
+
+Atomic Red Team
+
+https://atomicredteam.io/
+
+https://github.com/redcanaryco/atomic-red-team
+
+Atomic Red Team: Hands-on Getting Started Guide (Black Hills Security)
+
+https://register.gotowebinar.com/register/2656603025618084366?source=BHISLI
+
 ## Python
 
 ## Ransomeware
+
+Raccine - A Simple Ransomware Protection
+
+https://github.com/Neo23x0/Raccine
+
+## Reports
+
+Red Canary’s 2021 Threat Detection Report
+
+https://redcanary.com/threat-detection-report/
 
 ## Secuirty Awareness
 
@@ -65,18 +129,7 @@ Please feel free to fork this repository, add resources and submit a pull reques
 
 ## Webpages and miscellaneous resources
 
-Awesome Honeypots
+Microsoft warns: Watch out for this new malware that steals passwords, webcam and browser data
 
-https://github.com/paralax/awesome-honeypots
+https://www.zdnet.com/article/microsoft-warns-watch-out-for-this-new-malware-that-steals-passwords-webcam-and-browser-data/
 
-The Art of the Honeypot Account: Making the Unusual Look Normal 
-
-https://www.hub.trimarcsecurity.com/post/the-art-of-the-honeypot-account-making-the-unusual-look-normal
-
-Detecting Kerberoasting Activity Part 2 – Creating a Kerberoast Service Account Honeypot
-
-https://adsecurity.org/?p=3513
-
-AaronLocker
-
-https://github.com/microsoft/AaronLocker
