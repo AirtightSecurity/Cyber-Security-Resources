@@ -297,6 +297,23 @@ Virtual Cybersecurity Summit ANZ
 
 https://events.ismg.io/event/virtual-cybersecurity-summit-anz-2021/
 
+### Online Penetration Testing Tools
+
+Cryptii - Modular conversion, encoding and encryption online
+
+https://cryptii.com/
+
+CyberChef - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
+
+https://gchq.github.io/CyberChef/
+
+GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+
+https://gtfobins.github.io/
+
+WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
+
+https://wadcoms.github.io/ 
 
 ### Other inperson or non-free conferences
 
@@ -374,7 +391,7 @@ Ransomware: Survive by outrunning the guy next to you
 https://www.zdnet.com/article/ransomware-survive-by-outrunning-the-guy-next-to-you/
 
 
-## Secuirty Awareness
+## Security Awareness
 
 Gamification is the future of cybersecurity training | Cyber Work Podcast
 
