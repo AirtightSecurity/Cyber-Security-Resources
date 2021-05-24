@@ -9,6 +9,6 @@ Resources are added on a weekly basis. See the new resources added by reviewing 
 
 2021 Week 20
 
-https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/3dc3ed594db4d88ceec2e6a1f1d8d2bebd083c18/2021-20
+https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/2021-20.md
 
 
