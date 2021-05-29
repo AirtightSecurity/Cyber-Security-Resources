@@ -418,6 +418,9 @@ https://attack.mitre.org/
 
 https://www.youtube.com/watch?v=oCUrkc_0tmw
 
+(ENISA) Risk and threat assessment - Threat Landscape Mind Map (PDF)
+
+https://www.enisa.europa.eu/topics/threat-risk-management/threats-and-trends/enisa-thematic-landscapes/threat-landscape-of-the-internet-infrastructure/threat-mind-map/at_download/file
 
 ## SQL Injection Attacks
 
