@@ -4,6 +4,10 @@ Please feel free to fork this repository and add resources.
 
 ## Application Security (AppSec)
 
+How Hackers Steal Web Session Cookies From Facebook in Chrome?
+
+https://gbhackers.com/how-hackers-steal-web-session-cookies-from-facebook-in-chrome/
+
 Bugcrowd run a free online conference called LevelUp which is focused on bug bounties
 
 https://www.bugcrowd.com/resources/levelup/
@@ -32,6 +36,22 @@ https://itspmagazine.simplecast.com/episodes/web-app-hacking-with-tib3rius-the-h
 CTF Events
 
 https://ctftime.org/event/list/
+
+BlueTeam CTF Challenges
+
+https://cyberdefenders.org/labs/
+
+People streaming their CTF hacking live
+
+https://www.linkedin.com/posts/joshuacmason_cjshrekt-twitch-activity-6803838984083542016-ia4T
+
+Capture the Flag? Change Your Life
+
+https://www.youtube.com/watch?v=9WhQUItNNMw
+
+Offensive Security Proving Grounds (PG)
+
+https://www.offensive-security.com/labs/
 
 Cyber KnockOut at RSACTM 2021
 
@@ -83,6 +103,10 @@ https://github.com/kobs0N/Hacking-Cheatsheet
 
 ## Cloud Security
 
+Report: Cloud Security Breaches Surpass On-Prem Ones for the First Time
+
+https://www.datacenterknowledge.com/security/report-cloud-security-breaches-surpass-prem-ones-first-time
+
 SANS book: Practical Guide to Security in the AWS Cloud
 
 https://pages.awscloud.com/Book-SEC-mult-SANS-Practical-Guide-Security-AWS-Cloud.html
@@ -103,6 +127,10 @@ https://issuu.com/cybersecurityquarterly
 
 
 ## Cybersecurity Organisations
+
+May 24, 2021 Australian Cyber Security Growth Network (AustCyber) Secure By Design: Cyber Resilience for Industry (South Australia, Australia)
+
+https://www.youtube.com/watch?v=cLuE5sDhA9s
 
 Association for computing Machinary
 
@@ -131,6 +159,45 @@ Women in the IT Channel
 https://www.iotssa.com/women-in-the-it-channel/
 
 
+## Defense ##
+
+How to Audit Privileged Access in Active Directory?
+
+https://www.linkedin.com/pulse/how-audit-privileged-access-active-directory-sanjay-tandon/
+
+Blue Team Labs Online - A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.
+
+https://blueteamlabs.online/
+
+YARA Rules Guide: Learning this Malware Research Tool
+
+https://www.varonis.com/blog/yara-rules/
+
+Who’s most likely to hack your systems?
+
+https://archerint.com/whos-most-likely-to-hack-your-systems/
+
+### Applocker ###
+
+AaronLocker
+
+https://github.com/microsoft/AaronLocker
+
+### Honeypots ###
+
+Awesome Honeypots
+
+https://github.com/paralax/awesome-honeypots
+
+The Art of the Honeypot Account: Making the Unusual Look Normal
+
+https://www.hub.trimarcsecurity.com/post/the-art-of-the-honeypot-account-making-the-unusual-look-normal
+
+Detecting Kerberoasting Activity Part 2 – Creating a Kerberoast Service Account Honeypot
+
+https://adsecurity.org/?p=3513
+
+
 ## Demonstrations
 
 ### Penetration Testing
@@ -149,6 +216,10 @@ https://thycotic.com/company/blog/event/webinar-how-your-company-passwords-get-h
 
 
 ## Employment and Job Hunting
+
+LinkedIn and career finding
+
+https://www.cyberhuntingguide.net/career-finding.html
 
 Breaking into Cybersecurity cheatsheet
 
@@ -228,6 +299,10 @@ https://www.sans.org/webcasts/wolf-sheeps-clothing-dissecting-living-land-techni
 
 ## OSINT
 
+THE DARK WEB - Using the Dark Web for OSINT Investigations
+
+https://events.skopenow.com/q2-2021-dark-web-webinar
+
 How To Perform External Black-box Penetration Testing in Organization with “ZERO” Information
 
 https://gbhackers.com/external-black-box-penetration-testing/
@@ -252,6 +327,14 @@ The impact of attacks can also be reduced by manually configuring your DNS serve
 
 
 ## Online Summits and Conferences
+
+Australian Healthcare Week 2021
+
+https://ahwathome.ap1.pathable.com/
+
+OptivCon Virtual
+
+https://gateway.on24.com/wcc/experience/optiv/1237620/3161384/
 
 AWS Summit Online for Australia & New Zealand
 
@@ -328,6 +411,26 @@ https://bsidescbr.com.au/
 
 ## Penatration Testing (PenTesting)
 
+Kali Linux networking
+
+https://miloserdov.org/?p=542
+
+HackTricks - amazing online resource detailing hundreds of penetration testing technics
+
+https://book.hacktricks.xyz/
+
+Cobalt Strike
+
+https://www.cobaltstrike.com/
+
+How to Identify Cobalt Strike on Your Network
+
+https://www.darkreading.com/threat-intelligence/how-to-identify-cobalt-strike-on-your-network/a/d-id/1339357
+
+This is how the Cobalt Strike penetration testing tool is being abused by cybercriminals
+
+https://www.zdnet.com/article/this-is-how-the-cobalt-strike-penetration-testing-tool-is-being-abused-by-cybercriminals/
+
 Privileged Access - The Proverbial Keys to the Kingdom
 
 https://www.paramountdefenses.com/insights/privileged-access
@@ -376,6 +479,17 @@ Why Good SOC Analysts Know Offense & Defense
 
 https://www.youtube.com/watch?v=nit5LBiYcNo
 
+## Penatration Testing Tools (Online) ##
+
+Atomic Red Team
+
+https://atomicredteam.io/
+
+https://github.com/redcanaryco/atomic-red-team
+
+Atomic Red Team: Hands-on Getting Started Guide (Black Hills Security)
+
+https://register.gotowebinar.com/register/2656603025618084366?source=BHISLI
 
 ## Python
 
@@ -386,12 +500,35 @@ https://pythonprogramming.net/python-binding-listening-sockets/
 
 ## Ransomeware
 
+Raccine - A Simple Ransomware Protection
+
+https://github.com/Neo23x0/Raccine
+
 Ransomware: Survive by outrunning the guy next to you
 
 https://www.zdnet.com/article/ransomware-survive-by-outrunning-the-guy-next-to-you/
 
 
+## Reports ##
+
+Red Canary’s 2021 Threat Detection Report
+
+https://redcanary.com/threat-detection-report/
+
+2020 Cost of a Data Breach Report
+
+https://www.ibm.com/security/data-breach
+
+
 ## Security Awareness
+
+Reduce the risk of human error with security awareness training done right
+
+https://www.mimecast.com/products/awareness-training/
+
+Cybersecurity: Don't blame employees—make them feel like part of the solution
+
+https://www.techrepublic.com/article/cybersecurity-dont-blame-employees-make-them-feel-like-part-of-the-solution/
 
 Gamification is the future of cybersecurity training | Cyber Work Podcast
 
@@ -400,7 +537,38 @@ https://www.infosecinstitute.com/podcast/gamification-making-cybersecurity-train
 https://www.youtube.com/watch?v=F4fZkBe5FUo
 
 
+## Security Resources ##
+
+Become a Microsoft Security Ninja Resources
+
+https://www.linkedin.com/pulse/become-microsoft-security-ninja-resources-katie-anderson/
+
+
 ## Security Standards and Frameworks
+
+CIS Benchmarks Demo
+
+https://www.cisecurity.org/webinar/cis-benchmarks-demo/
+
+Consumer Data Right (CDR) legislation - Australia
+
+https://www.oaic.gov.au/consumer-data-right/cdr-legislation/
+
+Notifiable Data Breach Scheme - Austaalia
+
+https://www.oaic.gov.au/privacy/notifiable-data-breaches/
+
+Data Breach Notification Laws – An Ultimate Guide for Businesses - Australia
+
+https://www.webberinsurance.com.au/data-breach-notification-laws-ultimate-guide
+
+Reported data breaches in Australia (NDB) - Australia
+
+https://www.webberinsurance.com.au/data-breaches-list
+
+Podcast OzCyber Unlocked Industry-led cyber security standards – why are they important?
+
+https://austcyber.buzzsprout.com/1228793/7508962-industry-led-cyber-security-standards-why-are-they-important
 
 CIS Benchmarks March 2021 Update
 
@@ -431,6 +599,10 @@ https://www.linkedin.com/posts/davidbombal_sql-injection-activity-67939266068648
 
 ## SOC
 
+LetsDefend Memory Analysis challenge
+
+https://www.linkedin.com/posts/an-fam-868921105_cybersecurity-thankyou-share-activity-6802675805072695296-dmQn
+
 Letsdefend - demonstration
 
 https://www.linkedin.com/posts/stefan-wa_letsdefend-lab-review-activity-6801238044851658752-hfZb
@@ -446,6 +618,13 @@ https://securityboulevard.com/2020/12/sitdown-with-a-soc-star-11-questions-with-
 Say Goodbye to Your Big Alert Pipeline, and Say Hello to Your New Risk-Based Approach” at the Splunk .conf conference in 2018
 
 https://conf.splunk.com/files/2018/recordings/say-goodbye-to-your-sec1479.mp4
+
+
+## Supply Chain Attacks ##
+
+Threat Explainer: Supply Chain Attacks
+
+https://blogs.cisco.com/security/threat-explainer-supply-chain-attacks
 
 
 ## Training and Courses
@@ -488,6 +667,12 @@ Microsoft Ignite Skills: Complete/Learn a New Skill & Earn Microsoft Cert. Exam
 
 https://slickdeals.net/f/14873734-microsoft-ignite-skills-complete-learn-a-new-skill-earn-microsoft-cert-exam-free-complete-by-march-30-2021
 
+### Not free and virtual ###
+
+TCM Security - The Super Bundle (look for a discount code on Heaths twitter account)
+
+https://academy.tcm-sec.com/p/the-super-bundle
+
 
 ## Vulnerability Testing
 
@@ -523,6 +708,34 @@ https://www.youtube.com/channel/UCSmjcWvgVBqF3x_7e5rfe3A
 
 
 # Webpages and miscellaneous resources
+
+Microsoft warns: Watch out for this new malware that steals passwords, webcam and browser data
+
+https://www.zdnet.com/article/microsoft-warns-watch-out-for-this-new-malware-that-steals-passwords-webcam-and-browser-data/
+
+How To Hack A Hospital
+
+https://www.youtube.com/watch?v=iNrfnnGGeJs
+
+Let's Automate: LINUX PRIVILEGE ESCALATION - Part 1
+
+https://www.youtube.com/watch?v=gc2cFwT_Fd0
+
+Windows Defender vs Ransomware in 2021
+
+https://www.youtube.com/watch?v=ZbYx8V2RTjc
+
+Leaky John Deere API’s: Serious Food Supply Chain Vulnerabilities Discovered by Sick Codes, Kevin Kenney & Willie Cade.
+
+https://sick.codes/leaky-john-deere-apis-serious-food-supply-chain-vulnerabilities-discovered-by-sick-codes-kevin-kenney-willie-cade/
+
+At the HEART of the SolarWinds Breach - Privileged Access in Active Directory
+
+https://blog.paramountdefenses.com/2021/05/at-the-heart-of-the-solarwinds-breach.html
+
+Detecting cyber threats and preventing
+
+https://docs.google.com/document/d/1_DaciFToZjitG4tLCqOKKQPJvRAZ_gpobjHuoj_sjaY/
 
 New tools to block legacy authentication in your organization
 
