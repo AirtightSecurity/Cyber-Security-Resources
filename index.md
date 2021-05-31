@@ -1,4 +1,4 @@
-# Cyber Security Resourses File
+# Cyber Security Resources File
 
 Please feel free to fork this repository and add resources.
 
@@ -696,7 +696,7 @@ GB hackers on Security
 https://gbhackers.com/
 
 
-## Youtube Accounts to Folow
+## Youtube Accounts to Follow
 
 Gerald Auger - Simply Cyber
 
