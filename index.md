@@ -635,14 +635,6 @@ Cyber@ANZ - 5 to 6 hour free cyber security course (with completion certificate)
 
 https://www.theforage.com/virtual-internships/prototype/Hf4QMESoFeQwXPsiH/Cyber-Security-Virtual-Program
 
-Free Fortinet NSE 1 and 2 coures
-
-https://training.fortinet.com/local/staticpage/view.php?page=certifications
-
-Free Splunk Education Resources
-
-https://education.splunk.com/free
-
 AWS Summit Online for Australia & New Zealand
 
 https://aws.amazon.com/events/summits/online/anz/
