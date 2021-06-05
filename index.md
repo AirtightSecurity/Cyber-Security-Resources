@@ -409,7 +409,7 @@ BSides Canberra 2021
 https://bsidescbr.com.au/
 
 
-## Penatration Testing (PenTesting)
+## Penetration Testing (PenTesting)
 
 Kali Linux networking
 
@@ -479,7 +479,7 @@ Why Good SOC Analysts Know Offense & Defense
 
 https://www.youtube.com/watch?v=nit5LBiYcNo
 
-## Penatration Testing Tools (Online) ##
+## Penetration Testing Tools (Online) ##
 
 Atomic Red Team
 
@@ -498,7 +498,7 @@ Python Socket server
 https://pythonprogramming.net/python-binding-listening-sockets/
 
 
-## Ransomeware
+## Ransomware
 
 Raccine - A Simple Ransomware Protection
 
@@ -741,3 +741,10 @@ Pipeline Ransomware Attack: What We Know and How to Prepare
 
 https://pages.checkpoint.com/amer-security-best-practices-for-ot-may-2021.html
 
+Notetaking Software - Keep track of course material and building cheatsheets/blogs/writeups.
+
+http://keepnote.org/
+
+Screenshot capture/image-editing software
+
+https://getgreenshot.org/
