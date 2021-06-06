@@ -8,6 +8,9 @@ Please feel free to fork this repository and add resources.
 ## Capture the Flag (CTF)
 
 
+### Capture the Flag (CTF) walkthroughs and write ups
+
+
 ## Cheat Sheets
 
 
@@ -32,9 +35,15 @@ Please feel free to fork this repository and add resources.
 ### Honeypots ###
 
 
+### Incident Response ###
+
+
 ## Demonstrations
 
 ### Penetration Testing
+
+
+## Discord Channels ##
 
 
 ## Employment and Job Hunting
@@ -53,6 +62,9 @@ Please feel free to fork this repository and add resources.
 
 
 ## Living off the Land Attacks
+
+
+## Malware
 
 
 ## OSINT
