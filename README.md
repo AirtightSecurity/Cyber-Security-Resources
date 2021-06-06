@@ -5,14 +5,7 @@ Find the ever growing list of cybersecurity resources here
 
 https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/index.md
 
-Resources are added on a weekly basis. See the new resources added by reviewing the latest weekly file.
+Resources are added on a weekly basis. See the new resources added by reviewing the latest weekly file in the following folder
 
-2021 Week 21
-
-https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/2021-21.md
-
-2021 Week 20
-
-https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/2021-20.md
-
+https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/weekly-files/
 
