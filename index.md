@@ -37,6 +37,10 @@ CTF Events
 
 https://ctftime.org/event/list/
 
+PwnTillDawn Online Battlefield
+
+https://online.pwntilldawn.com/
+
 BlueTeam CTF Challenges
 
 https://cyberdefenders.org/labs/
@@ -80,6 +84,13 @@ https://null-byte.wonderhowto.com/how-to/setup-practice-ctfs-from-vulnhub-kali-l
 US Cyber Games
 
 https://www.uscybergames.com/
+
+
+## Capture the Flag (CTF) walkthroughs and write ups ##
+
+PwnTillDawn JuniorDev (10.150.150.38)
+
+https://more4money.medium.com/juniordev-10-150-150-38-f54de60de13c
 
 
 ## Cheat Sheets
@@ -161,6 +172,10 @@ https://www.iotssa.com/women-in-the-it-channel/
 
 ## Defense ##
 
+Zoom CIS Compliance Scans
+
+https://github.com/turbot/steampipe-mod-zoom-compliance
+
 How to Audit Privileged Access in Active Directory?
 
 https://www.linkedin.com/pulse/how-audit-privileged-access-active-directory-sanjay-tandon/
@@ -177,11 +192,13 @@ Who’s most likely to hack your systems?
 
 https://archerint.com/whos-most-likely-to-hack-your-systems/
 
+
 ### Applocker ###
 
 AaronLocker
 
 https://github.com/microsoft/AaronLocker
+
 
 ### Honeypots ###
 
@@ -198,9 +215,28 @@ Detecting Kerberoasting Activity Part 2 – Creating a Kerberoast Service Accoun
 https://adsecurity.org/?p=3513
 
 
+### Incident Response ###
+
+CISA Protect your Network: Strengthen your cybersecurity with our Incident Response Training
+
+https://www.youtube.com/playlist?list=PL-BF3N9rHBLJaSbTRPyWYj56f0m2uDQD7
+
+
+## Discord Channels ##
+
+Cyber Insecurity (Neal Bridges)
+
+https://discord.gg/GQWU5G9
+
+
 ## Demonstrations
 
 ### Penetration Testing
+
+
+Attacking Active Directory: 0 to 0.9
+
+https://zer1t0.gitlab.io/posts/attacking_ad/
 
 Live Attack Simulation
 
@@ -297,6 +333,13 @@ A Wolf in Sheep's Clothing: Dissecting Living off the Land Techniques
 https://www.sans.org/webcasts/wolf-sheeps-clothing-dissecting-living-land-techniques-114615
 
 
+## Malware ##
+
+A Complete Malware Analysis Tutorials, Cheatsheet & Tools list for Security Professionals
+
+https://gbhackers.com/malware-analysis-cheat-sheet-and-tools-list/
+
+
 ## OSINT
 
 THE DARK WEB - Using the Dark Web for OSINT Investigations
@@ -380,6 +423,7 @@ Virtual Cybersecurity Summit ANZ
 
 https://events.ismg.io/event/virtual-cybersecurity-summit-anz-2021/
 
+
 ### Online Penetration Testing Tools
 
 Cryptii - Modular conversion, encoding and encryption online
@@ -397,6 +441,7 @@ https://gtfobins.github.io/
 WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 
 https://wadcoms.github.io/ 
+
 
 ### Other inperson or non-free conferences
 
@@ -479,6 +524,7 @@ Why Good SOC Analysts Know Offense & Defense
 
 https://www.youtube.com/watch?v=nit5LBiYcNo
 
+
 ## Penetration Testing Tools (Online) ##
 
 Atomic Red Team
@@ -491,6 +537,7 @@ Atomic Red Team: Hands-on Getting Started Guide (Black Hills Security)
 
 https://register.gotowebinar.com/register/2656603025618084366?source=BHISLI
 
+
 ## Python
 
 Python Socket server
@@ -499,6 +546,10 @@ https://pythonprogramming.net/python-binding-listening-sockets/
 
 
 ## Ransomware
+
+CISA Ransomware Outbreak
+
+https://www.cisa.gov/publication/ransomware-outbreak
 
 Raccine - A Simple Ransomware Protection
 
@@ -545,6 +596,10 @@ https://www.linkedin.com/pulse/become-microsoft-security-ninja-resources-katie-a
 
 
 ## Security Standards and Frameworks
+
+ACSC ReportCyber (AU) Cyber crime reporting Australia
+
+https://www.cyber.gov.au/acsc/report
 
 CIS Benchmarks Demo
 
@@ -700,6 +755,14 @@ https://www.youtube.com/channel/UCSmjcWvgVBqF3x_7e5rfe3A
 
 
 # Webpages and miscellaneous resources
+
+Secure home working on personal IT (NCSC UK)
+
+https://www.ncsc.gov.uk/blog-post/secure-home-working-personal-it
+
+The Big Threat to Security Teams by Chloé Messdaghi
+
+https://www.youtube.com/watch?v=oC9Zp8xzThA
 
 Microsoft warns: Watch out for this new malware that steals passwords, webcam and browser data
 
