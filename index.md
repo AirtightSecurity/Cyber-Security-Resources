@@ -47,6 +47,10 @@ https://www.hacker101.com/
 
 Hack the box
 
+https://www.hackthebox.eu/
+
+Try Hack Me
+
 https://tryhackme.com/
 
 RangeForce
