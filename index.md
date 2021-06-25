@@ -811,3 +811,7 @@ http://keepnote.org/
 Screenshot capture/image-editing software
 
 https://getgreenshot.org/
+
+(Programming) - (RegExr) Regular Expression Interactive Builder, Tester and Learning Resource
+
+https://regexr.com/
