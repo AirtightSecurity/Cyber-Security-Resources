@@ -237,6 +237,9 @@ https://discord.gg/GQWU5G9
 
 ### Penetration Testing
 
+15 Ways to Bypass the PowerShell Execution Policy
+
+https://www.netspi.com/blog/technical/network-penetration-testing/15-ways-to-bypass-the-powershell-execution-policy/
 
 Attacking Active Directory: 0 to 0.9
 
