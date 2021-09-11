@@ -33,6 +33,10 @@ https://itspmagazine.simplecast.com/episodes/web-app-hacking-with-tib3rius-the-h
 
 ## Capture the Flag (CTF)
 
+ACSC cyber security challenge
+
+https://www.cyber.gov.au/acsc/view-all-content/news/acsc-cyber-security-challenge
+
 CTF Events
 
 https://ctftime.org/event/list/
@@ -143,6 +147,10 @@ https://issuu.com/cybersecurityquarterly
 
 ## Cybersecurity Organisations
 
+CISA Bad Practices
+
+https://www.cisa.gov/BadPractices
+
 May 24, 2021 Australian Cyber Security Growth Network (AustCyber) Secure By Design: Cyber Resilience for Industry (South Australia, Australia)
 
 https://www.youtube.com/watch?v=cLuE5sDhA9s
@@ -175,6 +183,14 @@ https://www.iotssa.com/women-in-the-it-channel/
 
 
 ## Defense ##
+
+PrintNightmare python scanner
+
+https://github.com/byt3bl33d3r/ItWasAllADream
+
+How secure is your RMM, and what can you do to better secure it?
+
+https://www.gavsto.com/how-secure-is-your-rmm-and-what-can-you-do-to-better-secure-it/
 
 Zoom CIS Compliance Scans
 
@@ -227,6 +243,14 @@ https://www.youtube.com/playlist?list=PL-BF3N9rHBLJaSbTRPyWYj56f0m2uDQD7
 
 
 ## Discord Channels ##
+
+Black Hills Information Security Discord community
+
+https://discord.com/invite/bhis
+
+Hacking Articles 
+
+https://lnkd.in/dC5TT8q
 
 Cyber Insecurity (Neal Bridges)
 
@@ -318,12 +342,40 @@ https://guides.github.com/activities/hello-world/
 
 ## Home lab for Cybersecurity
 
+Hacking Articles Pentest Lab Setup
+
+https://www.hackingarticles.in/category/pentest-lab-setup/
+
+Active Directory Pentesting: Lab Setup
+
+https://www.hackingarticles.in/active-directory-pentesting-lab-setup/
+
+Penetration Testing Lab Setup:Cloud Computing
+
+https://www.hackingarticles.in/penetration-testing-lab-setupcloud-computing/
+
 Cybersecurity home lab
 
 https://www.linkedin.com/posts/davidbombal_do-you-need-a-cybersecurity-home-lab-activity-6790313531674775553--QEY
 
 
 ## IOT and Cybersecurity
+
+Home routers are being hijacked using vulnerability disclosed just 2 days ago
+
+https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/08/home-routers-are-being-hijacked-using-vulnerability-disclosed-just-2-days-ago/
+
+Actively exploited bug bypasses authentication on millions of routers
+
+https://www.databreaches.net/actively-exploited-bug-bypasses-authentication-on-millions-of-routers/
+
+Hackers Exploiting New Auth Bypass Bug Affecting Millions of Arcadyan Routers
+
+https://thehackernews.com/2021/08/hackers-exploiting-new-auth-bypass-bug.html
+
+StealthWorker botnet targets Synology NAS devices to drop ransomware
+
+https://seclists.org/dataloss/2021/q3/126
 
 Voluntary Code of Practice Securing the Internet of Things for Consumers
 
@@ -374,6 +426,22 @@ The impact of attacks can also be reduced by manually configuring your DNS serve
 
 
 ## Online Summits and Conferences
+
+Cyber Security Global Summit'21 (July 27 to 29, 2021)
+
+https://cs.geekle.us
+
+Critical Vulnerabilities in Network Devices: Past, Present & Future (July 17, 2021)
+
+https://www.linkedin.com/events/6813402945061748738/
+
+CISO Critical Infrastructure Online A/NZ (July 13, 2021)
+
+https://www.linkedin.com/events/6795888806701731840/
+
+Administering AWS Infrastructure || Free Technical Workshop (July 9, 2021)
+
+https://www.linkedin.com/events/6813395109871157248/
 
 Australian Healthcare Week 2021
 
@@ -459,6 +527,14 @@ https://bsidescbr.com.au/
 
 
 ## Penetration Testing (PenTesting)
+
+Active Directory Enumeration: BloodHound
+
+https://www.hackingarticles.in/active-directory-enumeration-bloodhound/
+
+Windows Privilege Escalation: SeImpersonatePrivilege
+
+https://www.hackingarticles.in/windows-privilege-escalation-seimpersonateprivilege/
 
 Kali Linux networking
 
@@ -551,6 +627,10 @@ https://pythonprogramming.net/python-binding-listening-sockets/
 
 ## Ransomware
 
+Ransomware Readiness Assessment CSET v10.3
+
+https://github.com/cisagov/cset/releases/tag/v10.3.0.0
+
 CISA Ransomware Outbreak
 
 https://www.cisa.gov/publication/ransomware-outbreak
@@ -562,6 +642,113 @@ https://github.com/Neo23x0/Raccine
 Ransomware: Survive by outrunning the guy next to you
 
 https://www.zdnet.com/article/ransomware-survive-by-outrunning-the-guy-next-to-you/
+
+
+## Reddit (sub-reddits)
+
+Computer Security - IT security news, articles and tools
+
+https://www.reddit.com/r/ComputerSecurity/
+
+r/cyber: The 5th Domain of Warfare
+
+https://www.reddit.com/r/cyber/
+
+cyberlaws: Legal News Related ToTechnology And The Net
+
+https://www.reddit.com/r/cyberlaws/
+
+cybersecurity
+
+https://www.reddit.com/r/cybersecurity/
+
+Cybersecurity and Privacy for Beginners
+
+https://www.reddit.com/r/Cybersecurity101/
+
+Cyber Security Jobs
+
+https://www.reddit.com/r/CyberSecurityJobs/
+
+Data Recovery
+
+https://www.reddit.com/r/datarecovery/
+
+Hacking and cracking, done respectfully
+
+https://www.reddit.com/r/ethicalhacking/
+
+Exploit Development
+
+https://www.reddit.com/r/ExploitDev/
+
+r/fulldisclosure - Vulnerability Disclosure and Network Security Topics
+
+https://www.reddit.com/r/fulldisclosure/
+
+Hack Bloc
+
+https://www.reddit.com/r/HackBloc/
+
+Hackers
+
+https://www.reddit.com/r/hackers/
+
+HackerSec
+
+https://www.reddit.com/r/hackersec/
+
+hacking: security in practice
+
+https://www.reddit.com/r/hacking/
+
+A forum for the security professionals and white hat hackers.
+
+https://www.reddit.com/r/Hacking_Tutorials/
+
+Your Hacking Tutorial by Zempirians
+
+https://www.reddit.com/r/HowToHack/
+
+Information Security
+
+https://www.reddit.com/r/Information_Security/
+
+Information Security News
+
+https://www.reddit.com/r/InfoSecNews/
+
+Malware Analysis & Reports
+
+https://www.reddit.com/r/Malware/
+
+Managed Service Providers
+
+https://www.reddit.com/r/msp/
+
+/r/netsec - Information Security News & Discussion
+
+https://www.reddit.com/r/netsec/
+
+Network Security: News and Information
+
+https://www.reddit.com/r/NetworkSecurity/
+
+pwned
+
+https://www.reddit.com/r/pwned/
+
+Red Team Security
+
+https://www.reddit.com/r/redteamsec/
+
+SecurityCTF : CTF announcements & writeups
+
+https://www.reddit.com/r/securityCTF/
+
+Web Security - developing and maintaining secure websites
+
+https://www.reddit.com/r/websecurity/
 
 
 ## Reports ##
@@ -600,6 +787,14 @@ https://www.linkedin.com/pulse/become-microsoft-security-ninja-resources-katie-a
 
 
 ## Security Standards and Frameworks
+
+Introduction to OWASP Top 10 2021
+
+https://owasp.org/Top10/
+
+Secure Controls Framework (SCF)
+
+https://www.securecontrolsframework.com/
 
 ACSC ReportCyber (AU) Cyber crime reporting Australia
 
@@ -657,6 +852,10 @@ https://www.linkedin.com/posts/davidbombal_sql-injection-activity-67939266068648
 
 
 ## SOC
+
+Greylog - free and open source log proccessing and reporting
+
+https://www.graylog.org/
 
 LetsDefend Memory Analysis challenge
 
@@ -725,7 +924,58 @@ TCM Security - The Super Bundle (look for a discount code on Heaths twitter acco
 https://academy.tcm-sec.com/p/the-super-bundle
 
 
+## Vulnerabilities
+
+KrebsOnSecurity Hit By Huge New IoT Botnet “Meris” (MikroTik routers)
+
+https://krebsonsecurity.com/2021/09/krebsonsecurity-hit-by-huge-new-iot-botnet-meris/
+
+Netgear Authentication Bypass Allows Router Takeover
+
+https://threatpost.com/netgear-authentication-bypass-router-takeover/167469/
+
+CISA Offers New Mitigation for PrintNightmare Bug
+
+https://threatpost.com/cisa-mitigation-printnightmare-bug/167515/
+
+CISA-FBI Guidance for MSPs and their Customers Affected by the Kaseya VSA Supply-Chain Ransomware Attack
+
+https://us-cert.cisa.gov/ncas/current-activity/2021/07/04/cisa-fbi-guidance-msps-and-their-customers-affected-kaseya-vsa
+
+Kaseya Supply-Chain Attack Hits Nearly 40 Service Providers With REvil Ransomware
+
+https://thehackernews.com/2021/07/kaseya-revil-ransomware-attack.html
+
+Vigilance - public vulnerability remdiation
+
+https://vigilance.fr/?langue=2
+
+SANS Internet Storm Center
+
+https://isc.sans.edu/
+
+Microsoft Patch Tuesday by Morphus Labs 
+
+https://patchtuesdaydashboard.com/
+
+
 ## Vulnerability Testing
+
+Joe Sandbox
+
+https://www.joesandbox.com/analysispaged/0
+
+cb_looper - extract and parse cobalt strike C2 configs
+
+https://gitlab.com/interdiction_/cb_looper
+
+Confluence CVE-2021-26084 vulnerability
+
+https://github.com/search?q=CVE-2021-26084
+
+Nuclei - vulnerability scanner
+
+https://github.com/projectdiscovery/nuclei
 
 Bad patching practices are a breeding ground for zero-day exploits, Google warns
 
@@ -741,6 +991,10 @@ https://www.zdnet.com/article/plex-media-servers-are-being-abused-for-ddos-attac
 
 
 ## Websites and Blogs
+
+AttackIQ
+
+https://attackiq.com/
 
 GB hackers on Security
 
