@@ -607,6 +607,9 @@ Why Good SOC Analysts Know Offense & Defense
 
 https://www.youtube.com/watch?v=nit5LBiYcNo
 
+Red Team Phishing Campaign Open-Source Framework (GOPHISH)
+
+https://getgophish.com/
 
 ## Penetration Testing Tools (Online) ##
 
@@ -620,6 +623,11 @@ Atomic Red Team: Hands-on Getting Started Guide (Black Hills Security)
 
 https://register.gotowebinar.com/register/2656603025618084366?source=BHISLI
 
+## Red Team Resources (Software/Hardware/Physical)
+
+I'll Let Myself In: Tactics of Physical Pen Testers
+
+https://youtu.be/rnmcRTnTNC8
 
 ## Python
 
@@ -1014,6 +1022,41 @@ OWASP
 
 https://www.youtube.com/channel/UCSmjcWvgVBqF3x_7e5rfe3A
 
+NetworkChuck
+
+https://www.youtube.com/c/NetworkChuck
+
+Hak5
+
+https://www.youtube.com/c/hak5
+
+Null Byte
+
+https://www.youtube.com/c/NullByteWHT
+
+LiveOverflow
+
+https://www.youtube.com/c/LiveOverflow
+
+David Bombal
+
+https://www.youtube.com/c/DavidBombal
+
+Neal Bridges
+
+https://www.youtube.com/c/CyberInsecurity
+
+John Hammond
+
+https://www.youtube.com/c/JohnHammond010
+
+Loi Liang Yang
+
+https://www.youtube.com/c/LoiLiangYang
+
+Seytonic
+
+https://www.youtube.com/c/Seytonic
 
 # Webpages and miscellaneous resources
 
