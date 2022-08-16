@@ -348,6 +348,12 @@ https://guides.github.com/activities/hello-world/
 Detailed write up from CISCO TALOS regarding Dark Utilities C2 service: [Attackers leveraging Dark Utilities "C2aaS" platform in malware campaigns](https://blog.talosintelligence.com/2022/08/dark-utilities.html)
 
 
+## Hacking API
+
+[Free API Hacking course!](https://www.youtube.com/watch?v=CkVvB5woQRM)
+
+[Securing and Testing Your APIs - The Workshop](https://www.youtube.com/watch?v=l2i3i2yGhO0)
+
 
 ## Home lab for Cybersecurity
 
