@@ -343,6 +343,12 @@ GitHub Guide
 https://guides.github.com/activities/hello-world/
 
 
+## Hacking Software and Services
+
+[Attackers leveraging Dark Utilities "C2aaS" platform in malware campaigns](https://blog.talosintelligence.com/2022/08/dark-utilities.html)
+Detailed write up from CISCO TALOS regarding Dark Utilities C2 service.
+
+
 ## Home lab for Cybersecurity
 
 Hacking Articles Pentest Lab Setup
