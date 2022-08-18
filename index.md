@@ -1024,6 +1024,17 @@ GB hackers on Security
 https://gbhackers.com/
 
 
+## Windows Sysinternals **
+
+System Monitor (Sysmon) is a Windows system service and device driver
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon
+
+Sysmon 14.0 — FileBlockExecutable
+
+https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e
+
+
 ## Youtube Accounts to Follow
 
 Gerald Auger - Simply Cyber
@@ -1069,6 +1080,7 @@ https://www.youtube.com/c/LoiLiangYang
 Seytonic
 
 https://www.youtube.com/c/Seytonic
+
 
 # Webpages and miscellaneous resources
 
