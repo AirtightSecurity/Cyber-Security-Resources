@@ -947,6 +947,17 @@ TCM Security - The Super Bundle (look for a discount code on Heaths twitter acco
 https://academy.tcm-sec.com/p/the-super-bundle
 
 
+## Threat Hunting
+
+Open Threat Hunting Framework 
+
+https://github.com/TactiKoolSec/OTHF
+
+What to hunt for and how to hunt for it - using the Open Threat Hunting Framework IRL
+
+https://www.youtube.com/watch?v=pRVCb75TLe8
+
+
 ## Vulnerabilities
 
 KrebsOnSecurity Hit By Huge New IoT Botnet “Meris” (MikroTik routers)
