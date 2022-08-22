@@ -1,4 +1,6 @@
-# Training
+# Tutorials
+
+Various training and resources specific to a single technology or tool. See this page for training courses (URL needed).
 
 ## Azure
 
