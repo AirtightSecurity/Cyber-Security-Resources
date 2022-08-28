@@ -417,6 +417,10 @@ A Complete Malware Analysis Tutorials, Cheatsheet & Tools list for Security Prof
 
 https://gbhackers.com/malware-analysis-cheat-sheet-and-tools-list/
 
+Malware collection
+
+https://github.com/Red-Laboratory/Malware-collection
+
 
 ## OSINT
 
