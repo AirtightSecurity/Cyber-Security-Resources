@@ -2,6 +2,13 @@
 
 Please feel free to fork this repository and add resources.
 
+## Other lists
+
+[Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+
+A curated list of amazingly awesome awesomeness.
+
+
 ## Application Security (AppSec)
 
 How Hackers Steal Web Session Cookies From Facebook in Chrome?
