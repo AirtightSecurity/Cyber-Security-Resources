@@ -8,6 +8,10 @@ Various training and resources specific to a single technology or tool. See this
 
 This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to Azure.
 
+[John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy/featured)
+
+Content around Azure, PowerShell, DevOps, Hyper-V, Windows and more! 
+
 [Top](https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/files/Training.md#training)
 
 [Top](https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/files/Training.md#training)
