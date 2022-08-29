@@ -38,6 +38,13 @@ Web App Hacking With Tib3rius | The Hacker Factory With Phillip Wylie
 https://itspmagazine.simplecast.com/episodes/web-app-hacking-with-tib3rius-the-hacker-factory-with-phillip-wylie-ESL0dG16
 
 
+## Blue Team
+
+Easy Playbooks to Make Ransomware Criminals Cry
+
+https://www.helminfosec.com/post/easy-playbooks-to-make-ransomware-criminals-cry
+
+
 ## Capture the Flag (CTF)
 
 ACSC cyber security challenge
