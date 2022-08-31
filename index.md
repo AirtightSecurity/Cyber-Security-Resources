@@ -1094,49 +1094,43 @@ https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e
 
 ## Youtube Accounts to Follow
 
-Gerald Auger - Simply Cyber
+[13Cubed](https://www.youtube.com/c/13cubed)
 
-https://www.youtube.com/channel/UCG-48Ki-b6W_siaUkukJOSw
+[BlackPerl](https://www.youtube.com/c/BlackPerl)
 
-OWASP 
+[Bugcrowd](https://www.youtube.com/c/Bugcrowd)
 
-https://www.youtube.com/channel/UCSmjcWvgVBqF3x_7e5rfe3A
+[David Bombal](https://www.youtube.com/c/DavidBombal)
 
-NetworkChuck
+[Gerald Auger - Simply Cyber](https://www.youtube.com/channel/UCG-48Ki-b6W_siaUkukJOSw)
 
-https://www.youtube.com/c/NetworkChuck
+[Hak5](https://www.youtube.com/c/hak5)
 
-Hak5
+[HackerSploit](https://www.youtube.com/c/HackerSploit)
 
-https://www.youtube.com/c/hak5
+[Infosec Institute](https://www.youtube.com/c/InfoSecInstitute)
 
-Null Byte
+[InfoSec Live](https://www.youtube.com/c/infoseclive)
 
-https://www.youtube.com/c/NullByteWHT
+[IppSec](https://www.youtube.com/c/ippsec)
 
-LiveOverflow
+[John Hammond](https://www.youtube.com/c/JohnHammond010)
 
-https://www.youtube.com/c/LiveOverflow
+[LiveOverflow](https://www.youtube.com/c/LiveOverflow)
 
-David Bombal
+[Loi Liang Yang](https://www.youtube.com/c/LoiLiangYang)
 
-https://www.youtube.com/c/DavidBombal
+[Neal Bridges](https://www.youtube.com/c/CyberInsecurity)
 
-Neal Bridges
+[NetworkChuck](https://www.youtube.com/c/NetworkChuck)
 
-https://www.youtube.com/c/CyberInsecurity
+[Null Byte](https://www.youtube.com/c/NullByteWHT)
 
-John Hammond
+[OWASP](https://www.youtube.com/channel/UCSmjcWvgVBqF3x_7e5rfe3A)
 
-https://www.youtube.com/c/JohnHammond010
+[Peter Yaworski](https://www.youtube.com/c/yaworsk1)
 
-Loi Liang Yang
-
-https://www.youtube.com/c/LoiLiangYang
-
-Seytonic
-
-https://www.youtube.com/c/Seytonic
+[Seytonic](https://www.youtube.com/c/Seytonic)
 
 
 # Webpages and miscellaneous resources
