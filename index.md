@@ -950,6 +950,10 @@ https://blogs.cisco.com/security/threat-explainer-supply-chain-attacks
 
 ### Free and Virtual
 
+[Microsoft](https://docs.microsoft.com/en-us/learn/browse/)
+
+Learn new skills and discover the power of Microsoft products with step-by-step guidance. Start your journey today by exploring our learning paths and modules.
+
 Cyber@ANZ - 5 to 6 hour free cyber security course (with completion certificate)
 
 https://www.theforage.com/virtual-internships/prototype/Hf4QMESoFeQwXPsiH/Cyber-Security-Virtual-Program
