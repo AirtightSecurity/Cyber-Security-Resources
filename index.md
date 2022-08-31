@@ -277,13 +277,17 @@ Cyber Insecurity (Neal Bridges)
 https://discord.gg/GQWU5G9
 
 
-## Demonstrations
+## Demonstrations and POC
 
 ### Penetration Testing
 
 15 Ways to Bypass the PowerShell Execution Policy
 
 https://www.netspi.com/blog/technical/network-penetration-testing/15-ways-to-bypass-the-powershell-execution-policy/
+
+[Browser In The Browser (BITB) Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
+
+This article explores a phishing technique that simulates a browser window within the browser to spoof a legitimate domain.
 
 Attacking Active Directory: 0 to 0.9
 
