@@ -1010,13 +1010,13 @@ https://academy.tcm-sec.com/p/the-super-bundle
 
 ## Threat Hunting
 
-Open Threat Hunting Framework 
+[Open Threat Hunting Framework](https://github.com/TactiKoolSec/OTHF)
 
-https://github.com/TactiKoolSec/OTHF
+[What to hunt for and how to hunt for it - using the Open Threat Hunting Framework IRL](https://www.youtube.com/watch?v=pRVCb75TLe8)
 
-What to hunt for and how to hunt for it - using the Open Threat Hunting Framework IRL
+[Make Your Incident Response and Threat Hunting Easier With Powershell Hunting Tools](https://blog.mosse-institute.com/2022/07/26/threat-hunting-powershell-hunting-tools.html)
 
-https://www.youtube.com/watch?v=pRVCb75TLe8
+Kansa is a framework for incident response using PowerShell. This framework can be used within an enterprise to collect data for incident response, breach hunts, and environment baseline creation.
 
 
 ## Vulnerabilities
