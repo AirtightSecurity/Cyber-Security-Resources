@@ -481,6 +481,10 @@ https://www.fragattacks.com/
 
 The impact of attacks can also be reduced by manually configuring your DNS server so that it cannot be poisoned. Specific to your Wi-Fi configuration, you can mitigate attacks (but not fully prevent them) by disabling fragmentation, disabling pairwise rekeys, and disabling dynamic fragmentation in Wi-Fi 6 (802.11ax) devices. Note, live testing OS available.
 
+[Open Source Intelligence (OSINT) Tools & Resources](https://osint.link/)
+
+[The Ultimate OSINT Collection by hatless1der](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+
 
 ## Online Summits and Conferences
 
