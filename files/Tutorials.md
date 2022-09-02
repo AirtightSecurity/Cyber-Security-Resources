@@ -12,10 +12,8 @@ This tutorial contains a full, real-world solution for setting up an environment
 
 Content around Azure, PowerShell, DevOps, Hyper-V, Windows and more! 
 
-[Top](https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/files/Training.md#training)
+[Mass Hunting CVE’s Part-1](https://infosecwriteups.com/mass-hunting-cves-part-1-1e162ba6028b)
 
-[Top](https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/files/Training.md#training)
+We will be taking an example of CVE-2022–37042.
 
-[Top](https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/files/Training.md#training)
 
-[Top](https://github.com/AirtightSecurity/Cyber-Security-Resources/blob/main/files/Training.md#training)
