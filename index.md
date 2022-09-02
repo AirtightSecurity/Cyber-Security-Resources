@@ -353,6 +353,11 @@ What is the Applicant Tracking System (ATS)?
 https://blogs.chapman.edu/career/2021/02/12/what-is-the-applicant-tracking-system-ats/
 
 
+## GCR - Governance, Risk, and Compliance
+
+[Managing Governance, Risk, and Compliance for a Resilient Organization](https://blog.mosse-institute.com/2022/06/02/introduction-to-grc-and-its-importance-in-cyber-security.html)
+
+
 ## Get togethers and Meet Ups
 
 SecTalk Sydney
