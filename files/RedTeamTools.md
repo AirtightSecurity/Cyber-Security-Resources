@@ -1,5 +1,12 @@
 # Red Team Tools
 
+## Webpages with lists of tools
+
+### Password Cracking
+
+[Awesome-Password-Cracking - A Curated List Of Awesome Tools, Research, Papers And Other Projects Related To Password Cracking And Password Security](https://www.kitploit.com/2022/08/awesome-password-cracking-curated-list.html)
+
+
 ## [Alan C2 Framework](https://github.com/enkomio/AlanFramework)
 
 Alan Framework is a post-exploitation framework useful during red-team activities.
