@@ -232,6 +232,10 @@ Who’s most likely to hack your systems?
 
 https://archerint.com/whos-most-likely-to-hack-your-systems/
 
+[How to Install and Set-up Sysmon for Windows Endpoint Devices](https://blog.mosse-institute.com/2022/08/04/how-to-install-and-set-up-sysmon-for-windows-endpoint-devices.html)
+
+Sysmon is a component of the Microsoft Sysinternals Suite that runs as a kernel driver and may monitor and report on system events. Businesses frequently utilize it as part of their tracking and logging systems.
+
 
 ### Applocker ###
 
