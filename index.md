@@ -485,6 +485,8 @@ The impact of attacks can also be reduced by manually configuring your DNS serve
 
 [The Ultimate OSINT Collection by hatless1der](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 
+[Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://www.youtube.com/watch?v=qwA6MmbeGNo)
+
 
 ## Online Summits and Conferences
 
