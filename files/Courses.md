@@ -14,3 +14,7 @@ Game: Cybersecurity incident scenario where students select appropriate defensiv
 
 [Free CCNA 200-301 | Complete Course 2022](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
+## OSINT
+
+[Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://www.youtube.com/watch?v=qwA6MmbeGNo)
+
