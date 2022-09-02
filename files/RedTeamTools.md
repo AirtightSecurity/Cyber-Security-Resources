@@ -1,5 +1,10 @@
 # Red Team Tools
 
+## [Alan C2 Framework](https://github.com/enkomio/AlanFramework)
+
+Alan Framework is a post-exploitation framework useful during red-team activities.
+
+
 ## Metasploit
 
 [Metasploit Tutorial for Beginners – Basics to Advanced](https://nooblinux.com/metasploit-tutorial/)
