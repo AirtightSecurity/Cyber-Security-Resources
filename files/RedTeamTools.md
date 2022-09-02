@@ -26,6 +26,14 @@ This guide is showing how to exploit CVE 2004-2687. Uses distcc.
 
 The Metasploitable virtual machine is an intentionally vulnerable version of Ubuntu Linux designed for testing security tools and demonstrating common vulnerabilities
 
+[Meterpreter for Pentesters](https://blog.mosse-institute.com/2022/07/28/meterpreter-for-pentesters.html)
+
+Meterpreter is a sophisticated payload that can be dynamically extended at runtime and leverages in-memory DLL injection stagers. The stager socket is used for communication, and it offers a thorough client-side Ruby API.
+
+[Windows Persistence Techniques With Metasploit](https://blog.mosse-institute.com/2022/07/28/windows-persistence-techniques-with-metasploit.html)
+
+This article demonstrates how to maintain access and leave a permanent backdoor in the victim system even if the system is restarted or credentials are changed or any other interruptions.
+
 
 ## OpenBullet
 
