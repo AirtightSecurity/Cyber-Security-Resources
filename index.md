@@ -1053,6 +1053,10 @@ Microsoft Patch Tuesday by Morphus Labs
 
 https://patchtuesdaydashboard.com/
 
+[uncover](https://github.com/projectdiscovery/uncover)
+
+uncover is a go wrapper using APIs of well known search engines to quickly discover exposed hosts on the internet. It is built with automation in mind, so you can query it and utilize the results with your current pipeline tools.
+
 
 ## Vulnerability Testing
 
